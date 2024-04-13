@@ -1,0 +1,34 @@
+/* Meu CSS - Desenvolvimento em 13-Abr-2024 */
+:root{
+    --tamanho: 70px;
+}
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    color:gray;
+    font-size: var(--tamanho);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: white;
+    background-color: darkblue;
+    font-size: 70px;
+}
+div{
+    width: 500px;
+    height: 200px;
+    background-color: aqua;
+    font-size: 18px;
+    margin-top: 150px;
+}
+#div3{
+    height: 50%;
+    width: 50vw;
+    background-color: brown;
+}
+#div4{
+    background-color: greenyellow
+}
